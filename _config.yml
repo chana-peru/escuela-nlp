@@ -4,8 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'NLP-Peru'
+description:      'Escuela de verano de NLP para lenguas originarias del Perú'
+#description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://chana-peru.github.io/escuela-nlp
 baseurl:          '/escuela-nlp'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,8 +16,8 @@ baseurl:          '/escuela-nlp'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Arturo Oncevay'
+  url:            https://twitter.com/a11byte
 
 paginate:         5
 # paginate_path:    '/page:num'
